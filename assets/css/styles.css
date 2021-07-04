@@ -282,20 +282,23 @@ img{
 .skills__css{
   width: 60%;
 }
-.skills__c{
-  width: 80%;
+.skills__native{
+  width: 60%;
 }
-.skills__oops{
-  width: 80%;
+.skills__Javascript{
+  width: 60%;
 }
 .skills__core{
-  width: 85%;
-}
-.skills__java{
   width: 65%;
 }
-.skills__spring{
-  width: 85%;
+.skills__typescript{
+  width: 50%;
+}
+.skills__database{
+  width: 65%;
+}
+.skills__html5{
+  width: 65%;
 }
 
 /* ===== EDUCATION =====*/
